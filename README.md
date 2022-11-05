@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=igortuag&repo=igortuag&countColorcountColor)
+
 
 ### Hello, I'm [Igor!](https://www.linkedin.com/in/igortuag/)
 
