@@ -1,26 +1,26 @@
-**Igor Tuag**  
-Frontend Developer  
+# **Igor Tuag**  
+Senior Frontend Engineer  
 Vila Velha, Espírito Santo, Brazil  
 [LinkedIn](https://linkedin.com/in/igortuag) | [GitHub](https://github.com/igortuag) | igortuag@gmail.com
 
 ---
 
 ### **Summary**
-Experienced Frontend Developer with expertise in JavaScript frameworks like React.js, Vue.js, and Next.js. Skilled in building responsive web applications, e-commerce, dashboards, and data visualization tools. Proficient in integrating APIs, working with frontend libraries, and optimizing performance for web-based solutions.
+Experienced Frontend Engineer with expertise in JavaScript frameworks like React.js, Vue.js, and Next.js. Skilled in building responsive web applications, dashboards, and data visualization tools. Proficient in integrating APIs, working with frontend libraries, optimizing performance, and implementing SEO strategies for web-based solutions.
 
 ---
 
 ### **Experience**
 
 #### **IM Digital**  
-*Tech Lead*  
+*Senior Frontend Engineer*  
 *December 2023 – Present*  
 - Leading frontend development using React, Redux, NextJS, and GraphQL.
 - Managing integrations with Contentful and Commerce Tools using Next.js.
+- Optimized performance and implemented SEO best practices, including dynamic SEO tags and server-side rendering (SSR).
 - Overseeing a team of developers and ensuring code quality, performance optimization, and project deadlines.
 - Architecting Progressive Web Apps (PWA), Single Page Applications (SPA) with SSR and SSG, and integrating RESTful APIs.
 - Implementing deployment solutions using Docker.
-
 
 #### **Blue Orange Digital**  
 *Frontend Engineer*  
@@ -31,15 +31,16 @@ Experienced Frontend Developer with expertise in JavaScript frameworks like Reac
 - Utilized GitHub for version control and team collaboration.
 
 #### **Imagination Media**  
-*Frontend Developer*  
+*Frontend Engineer*  
 *December 2020 – August 2022*  
 - Developed frontend features using React, Redux, NextJS, and GraphQL.
-- Worked on building Progressive Web Apps (PWA) and Single Page Applications (SPA) with server-side rendering (SSR) and static site generation (SSG).
+- Worked on building Progressive Web Apps (PWA) and Single Page Applications (SPA) with SSR and static site generation (SSG).
 - Integrated RESTful APIs and collaborated with backend teams.
-- Contributed to the deployment of applications using Docker.
+- Contributed to performance optimization and SEO improvements, leveraging SSR and dynamic meta tags for SEO.
+- Deployed applications using Docker.
 
 #### **UpperSoft**  
-*Frontend Developer*  
+*Frontend Engineer*  
 *August 2020 – January 2021*  
 - Developed single-page applications with Vue.js, using Vuex, Vue Router, and NuxtJS.
 - Worked on UI development with CSS3 and SASS.
@@ -65,3 +66,8 @@ Experienced Frontend Developer with expertise in JavaScript frameworks like Reac
 - Contentful, Commerce Tools  
 - Docker, GitHub  
 - RESTful APIs, GraphQL  
+- SEO Optimization, Server-Side Rendering (SSR)  
+
+---
+
+This version includes the title "Frontend Engineer" and your additional responsibilities related to performance optimization and SEO integration. Let me know if you need further updates!
