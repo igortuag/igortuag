@@ -16,11 +16,11 @@ Experienced Frontend Engineer with expertise in JavaScript frameworks like React
 *Senior Frontend Engineer*  
 *December 2023 – Present*  
 - Leading frontend development using React, Redux, NextJS, and GraphQL.
+- Implementing deployment solutions using Docker and Vercel, including pipeline configuration.
 - Managing integrations with Contentful and Commerce Tools using Next.js.
 - Optimized performance and implemented SEO best practices, including dynamic SEO tags and server-side rendering (SSR).
 - Overseeing a team of developers and ensuring code quality, performance optimization, and project deadlines.
 - Architecting Progressive Web Apps (PWA), Single Page Applications (SPA) with SSR and SSG, and integrating RESTful APIs.
-- Implementing deployment solutions using Docker.
 
 #### **Blue Orange Digital**  
 *Frontend Engineer*  
@@ -65,9 +65,8 @@ Experienced Frontend Engineer with expertise in JavaScript frameworks like React
 - AG-Grid, ChartJS  
 - Contentful, Commerce Tools  
 - Docker, GitHub  
+- Vercel, Pipeline Configuration  
 - RESTful APIs, GraphQL  
 - SEO Optimization, Server-Side Rendering (SSR)  
 
 ---
-
-This version includes the title "Frontend Engineer" and your additional responsibilities related to performance optimization and SEO integration. Let me know if you need further updates!
