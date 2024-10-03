@@ -2,6 +2,7 @@
 
 ### Hello, I'm [Igor!](https://www.linkedin.com/in/igortuag/)
 
+[RESUME](/resume.md)
 [![Linkedin: igortuag](https://img.shields.io/badge/-igortuag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igortuag/)](https://www.linkedin.com/in/igortuag/)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br />
